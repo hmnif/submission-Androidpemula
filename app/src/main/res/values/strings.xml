@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">La Liga App</string>
+    <string name="name_bola">Nama Tim</string>
+    <string name="content_main">Berikut daftar tim termahal La Liga</string>
+    <string name="content_rank">Value rank</string>
+    <string name="overview">overview</string>
+    <string name="bola_identity">Team Identity</string>
+    <string name="bola_overview">Team Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Acronym \nFounded \nMotto \nColours \nWebsite \nAddress \nTelfon \nFAX</string>
+    <string name="name_me">Muhammad Hanif</string>
+    <string name="email_me">muhnf16@gmail.com</string>
+    <string name="rank">La Liga Rank \nValue </string>
+    <string name="profile">Profile</string>
+</resources>
